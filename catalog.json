@@ -4,5 +4,5 @@
   { "id": "explorer", "name": "Web Explorer", "version": "1.0.0", "type": "app" },
   { "id": "updater", "name": "App Store", "version": "1.0.0", "type": "app" },
   { "id": "ssh", "name": "SSH Client", "version": "1.0.0", "type": "app" },
-  { "id": "factory", "name": "Factory Firmware", "version": "1.0.1", "type": "sys" }
+  { "id": "factory", "name": "Factory Firmware", "version": "1.0.2", "type": "sys" }
 ]
